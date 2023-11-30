@@ -1,1 +1,2 @@
-# alx-frontend-javascript---This the my ALX front end specialization
+# Short Specialization
+# alx-frontend-javascript
